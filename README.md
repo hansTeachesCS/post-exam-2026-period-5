@@ -23,7 +23,7 @@ collection of student work post-AP exam
 - [Itzi FRQs](https://github.com/ItziRubiS/ap-csa-2026-frqs)
 - [Daler FRQs](https://github.com/dalersadykov14/ap-csa-2026-frqs)
 - [Elizabeth FRQs](https://github.com/elizabeths337/ap-csa-2026-frqs)
-- [Shane FRQs](https://github.com/shanesprite/ap-csa-2026-frqs)
+- [Shane FRQs](https://github.com/shanesprite/APCSA-2026-frqs-response)
 - [Darren FRQs](https://github.com/dt111a/ap-csa-2026-frqs)
 - [Jose FRQs](https://github.com/LJ2741/ap-csa-2026-frqs)
 - [Mary FRQs](https://github.com/mqry-fryy/ap-csa-2026-frqs)
